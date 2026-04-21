@@ -1,0 +1,18 @@
+[project]
+name = "decomposicao-fourier"
+version = "0.1.0"
+description = "Simulador de Decomposição de Fourier"
+authors = [
+    {name = "Seu Nome", email = "seu.email@example.com"},
+]
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "PyQt6",
+]
+requires-python = ">=3.8"
+readme = "README.md"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
