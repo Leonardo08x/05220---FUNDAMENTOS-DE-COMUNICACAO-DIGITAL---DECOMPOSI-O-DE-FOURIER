@@ -133,14 +133,3 @@ Contribuições são bem-vindas! Para contribuir:
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 📞 Contato
-
-- Autor: Seu Nome
-- Email: seu.email@example.com
-- Projeto: [Link do repositório, se aplicável]
-
-## 🙏 Agradecimentos
-
-- Inspirado em conceitos de processamento de sinais digitais.
-- Bibliotecas utilizadas: NumPy, Matplotlib, PyQt6.
-- Ferramentas: uv para gerenciamento de dependências.
